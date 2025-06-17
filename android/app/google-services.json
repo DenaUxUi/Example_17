@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176171885237",
+    "project_id": "todoapp-bdcee",
+    "storage_bucket": "todoapp-bdcee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176171885237:android:e4e73706aaf275633794fc",
+        "android_client_info": {
+          "package_name": "todoapp.from.dena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkUh3xiNuRjtmfkgu7GazJdPwqum0DhB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
