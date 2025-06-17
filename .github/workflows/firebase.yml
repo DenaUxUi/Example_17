@@ -16,6 +16,11 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.22.1'
+      
+      - name: Проверка версий Flutter и Dart
+        run: |
+          flutter --version
+          dart --version
 
       - name: Получение зависимостей
         run: flutter pub get
